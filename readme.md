@@ -1,8 +1,7 @@
-#Hello World
 
 ## Info de Tomas Cappa
-NOMBRE: CAPPA, TOMÁS DANIEL
-LEGAJO: 11123
+**NOMBRE**: CAPPA, TOMÁS DANIEL.
+**LEGAJO**: 11123.
 
 ### Descripción:
 Buenas mi nombre es Tomas, soy estudiante de segundo año de Ingenieria. 
