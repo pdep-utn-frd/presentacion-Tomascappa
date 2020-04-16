@@ -1,6 +1,6 @@
 
 ## Info de Tomas Cappa
-[Perfil](https://user-images.githubusercontent.com/63429629/78950196-56efc200-7aa4-11ea-8f04-3e01d77fd504.jpg)
+![Perfil](https://user-images.githubusercontent.com/63429629/78950196-56efc200-7aa4-11ea-8f04-3e01d77fd504.jpg)
 
 **Nombre**: CAPPA, TOMÁS DANIEL.
 
